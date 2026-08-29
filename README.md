@@ -1,12 +1,12 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (9)
+### Battles (10)
 
 <ul>
 <li>
 <details>
-<summary><strong>Battle #1 (9)</strong></summary>
+<summary><strong>Battle #1 (10)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%231/%231.%20Simply%20Square/">#1. Simply Square</a> (165 Characters)</li>
@@ -18,6 +18,7 @@
 <li><a href="./Battles/Battle%20%231/%237.%20Leafy%20Trail/">#7. Leafy Trail</a> (763 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%238.%20Forking%20Crazy/">#8. Forking Crazy</a> (2359 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%239.%20Tesseract/">#9. Tesseract</a> (1068 Characters)</li>
+<li><a href="./Battles/Battle%20%231/%2310.%20Cloaked%20Spirits/">#10. Cloaked Spirits</a> (1559 Characters)</li>
 </ul>
 </details>
 </li>
