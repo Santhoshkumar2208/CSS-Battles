@@ -1,12 +1,12 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (10)
+### Battles (11)
 
 <ul>
 <li>
 <details>
-<summary><strong>Battle #1 (10)</strong></summary>
+<summary><strong>Battle #1 (11)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%231/%231.%20Simply%20Square/">#1. Simply Square</a> (165 Characters)</li>
@@ -19,6 +19,7 @@
 <li><a href="./Battles/Battle%20%231/%238.%20Forking%20Crazy/">#8. Forking Crazy</a> (2359 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%239.%20Tesseract/">#9. Tesseract</a> (1068 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%2310.%20Cloaked%20Spirits/">#10. Cloaked Spirits</a> (1559 Characters)</li>
+<li><a href="./Battles/Battle%20%231/%2311.%20Eye%20of%20Sauron/">#11. Eye of Sauron</a> (1008 Characters)</li>
 </ul>
 </details>
 </li>
