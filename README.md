@@ -1,12 +1,12 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (7)
+### Battles (8)
 
 <ul>
 <li>
 <details>
-<summary><strong>Battle #1 (7)</strong></summary>
+<summary><strong>Battle #1 (8)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%231/%231.%20Simply%20Square/">#1. Simply Square</a> (165 Characters)</li>
@@ -16,6 +16,7 @@
 <li><a href="./Battles/Battle%20%231/%235.%20Acid%20Rain/">#5. Acid Rain</a> (799 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%236.%20Missing%20Slice/">#6. Missing Slice</a> (492 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%237.%20Leafy%20Trail/">#7. Leafy Trail</a> (763 Characters)</li>
+<li><a href="./Battles/Battle%20%231/%238.%20Forking%20Crazy/">#8. Forking Crazy</a> (2359 Characters)</li>
 </ul>
 </details>
 </li>
