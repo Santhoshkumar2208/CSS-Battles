@@ -1,7 +1,7 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (12)
+### Battles (13)
 
 <ul>
 <li>
@@ -21,6 +21,15 @@
 <li><a href="./Battles/Battle%20%231/%2310.%20Cloaked%20Spirits/">#10. Cloaked Spirits</a> (1559 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%2311.%20Eye%20of%20Sauron/">#11. Eye of Sauron</a> (1008 Characters)</li>
 <li><a href="./Battles/Battle%20%231/%2312.%20Wiggly%20Moustache/">#12. Wiggly Moustache</a> (1269 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #2 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%232/%2313.%20Totally%20Triangle/">#13. Totally Triangle</a> (381 Characters)</li>
 </ul>
 </details>
 </li>
