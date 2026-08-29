@@ -1,7 +1,7 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (13)
+### Battles (14)
 
 <ul>
 <li>
@@ -26,10 +26,11 @@
 </li>
 <li>
 <details>
-<summary><strong>Battle #2 (1)</strong></summary>
+<summary><strong>Battle #2 (2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%232/%2313.%20Totally%20Triangle/">#13. Totally Triangle</a> (381 Characters)</li>
+<li><a href="./Battles/Battle%20%232/%2314.%20Web%20Maker%20Logo/">#14. Web Maker Logo</a> (975 Characters)</li>
 </ul>
 </details>
 </li>
