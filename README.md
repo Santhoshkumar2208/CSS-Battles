@@ -1,7 +1,7 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (17)
+### Battles (18)
 
 <ul>
 <li>
@@ -26,7 +26,7 @@
 </li>
 <li>
 <details>
-<summary><strong>Battle #2 (5)</strong></summary>
+<summary><strong>Battle #2 (6)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%232/%2313.%20Totally%20Triangle/">#13. Totally Triangle</a> (381 Characters)</li>
@@ -34,6 +34,7 @@
 <li><a href="./Battles/Battle%20%232/%2315.%20Overlap/">#15. Overlap</a> (560 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2316.%20Eye%20of%20the%20Tiger/">#16. Eye of the Tiger</a> (1035 Characters)</li>
 <li><a href="./Battles/Battle%20%232/%2317.%20Fidget%20Spinner/">#17. Fidget Spinner</a> (1442 Characters)</li>
+<li><a href="./Battles/Battle%20%232/%2318.%20Matrix/">#18. Matrix</a> (986 Characters)</li>
 </ul>
 </details>
 </li>
