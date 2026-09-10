@@ -1,7 +1,7 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (19)
+### Battles (20)
 
 <ul>
 <li>
@@ -40,10 +40,11 @@
 </li>
 <li>
 <details>
-<summary><strong>Battle #3 (1/2)</strong></summary>
+<summary><strong>Battle #3 (2/2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%233/%2319.%20Cube/">#19. Cube</a> (903 Characters)</li>
+<li><a href="./Battles/Battle%20%233/%2320.%20Ticket/">#20. Ticket</a> (876 Characters)</li>
 </ul>
 </details>
 </li>
