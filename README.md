@@ -1,7 +1,7 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (27)
+### Battles (28)
 
 <ul>
 <li>
@@ -50,7 +50,7 @@
 </li>
 <li>
 <details>
-<summary><strong>Battle #4 (7/8)</strong></summary>
+<summary><strong>Battle #4 (8/8)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%234/%2321.%20SitePoint%20Logo/">#21. SitePoint Logo</a> (1008 Characters)</li>
@@ -60,6 +60,7 @@
 <li><a href="./Battles/Battle%20%234/%2325.%20Blossom/">#25. Blossom</a> (1054 Characters)</li>
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a> (869 Characters)</li>
 <li><a href="./Battles/Battle%20%234/%2327.%20Lock%20Up/">#27. Lock Up</a> (1001 Characters)</li>
+<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp; Balls</a> (1110 Characters)</li>
 </ul>
 </details>
 </li>
