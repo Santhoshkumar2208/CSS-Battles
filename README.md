@@ -1,7 +1,7 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (21)
+### Battles (22)
 
 <ul>
 <li>
@@ -50,10 +50,11 @@
 </li>
 <li>
 <details>
-<summary><strong>Battle #4 (1)</strong></summary>
+<summary><strong>Battle #4 (2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%234/%2321.%20SitePoint%20Logo/">#21. SitePoint Logo</a> (1008 Characters)</li>
+<li><a href="./Battles/Battle%20%234/%2322.%20Cloud/">#22. Cloud</a> (761 Characters)</li>
 </ul>
 </details>
 </li>
