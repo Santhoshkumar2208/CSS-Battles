@@ -1,7 +1,7 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (30)
+### Battles (31)
 
 <ul>
 <li>
@@ -71,6 +71,15 @@
 <ul>
 <li><a href="./Battles/Battle%20%235/%2329.%20Suffocate/">#29. Suffocate</a> (428 Characters)</li>
 <li><a href="./Battles/Battle%20%235/%2330.%20Horizon/">#30. Horizon</a> (419 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #6 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%236/%2331.%20Equals/">#31. Equals</a> (672 Characters)</li>
 </ul>
 </details>
 </li>
