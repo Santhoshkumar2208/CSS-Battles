@@ -1,7 +1,7 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (32)
+### Battles (33)
 
 <ul>
 <li>
@@ -81,6 +81,15 @@
 <ul>
 <li><a href="./Battles/Battle%20%236/%2331.%20Equals/">#31. Equals</a> (672 Characters)</li>
 <li><a href="./Battles/Battle%20%236/%2332.%20Band-aid/">#32. Band-aid</a> (754 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #7 (1/9)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%237/%2333.%20Birdie/">#33. Birdie</a> (822 Characters)</li>
 </ul>
 </details>
 </li>
