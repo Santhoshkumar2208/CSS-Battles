@@ -1,7 +1,7 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (38)
+### Battles (39)
 
 <ul>
 <li>
@@ -86,7 +86,7 @@
 </li>
 <li>
 <details>
-<summary><strong>Battle #7 (6/9)</strong></summary>
+<summary><strong>Battle #7 (7/9)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%237/%2333.%20Birdie/">#33. Birdie</a> (822 Characters)</li>
@@ -95,6 +95,7 @@
 <li><a href="./Battles/Battle%20%237/%2336.%20Interleaved/">#36. Interleaved</a> (1352 Characters)</li>
 <li><a href="./Battles/Battle%20%237/%2337.%20Tunnel/">#37. Tunnel</a> (717 Characters)</li>
 <li><a href="./Battles/Battle%20%237/%2338.%20Not%20Simply%20Square/">#38. Not Simply Square</a> (705 Characters)</li>
+<li><a href="./Battles/Battle%20%237/%2339.%20Sunset/">#39. Sunset</a> (960 Characters)</li>
 </ul>
 </details>
 </li>
