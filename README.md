@@ -1,7 +1,7 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (36)
+### Battles (37)
 
 <ul>
 <li>
@@ -86,13 +86,14 @@
 </li>
 <li>
 <details>
-<summary><strong>Battle #7 (4/9)</strong></summary>
+<summary><strong>Battle #7 (5/9)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%237/%2333.%20Birdie/">#33. Birdie</a> (822 Characters)</li>
 <li><a href="./Battles/Battle%20%237/%2334.%20Christmas%20Tree/">#34. Christmas Tree</a> (950 Characters)</li>
 <li><a href="./Battles/Battle%20%237/%2335.%20Ice%20Cream/">#35. Ice Cream</a> (849 Characters)</li>
 <li><a href="./Battles/Battle%20%237/%2336.%20Interleaved/">#36. Interleaved</a> (1352 Characters)</li>
+<li><a href="./Battles/Battle%20%237/%2337.%20Tunnel/">#37. Tunnel</a> (717 Characters)</li>
 </ul>
 </details>
 </li>
